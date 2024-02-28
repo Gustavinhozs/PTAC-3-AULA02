@@ -1,0 +1,12 @@
+.cabecalho{
+    display: flex;
+    height: 75px;
+    background-color: rgb(145, 209, 246);
+    align-items: center;
+}
+
+.cabecalho h1{
+    margin-top: 0px;
+    color: white;
+}
+
