@@ -4,9 +4,15 @@
     width: 100%;
     background-color: #838282;
     padding: 20px;
-  height: 95px;
+  height: 175px;
 }
 
 .footer h1{
     color: white;
+}
+
+.imagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

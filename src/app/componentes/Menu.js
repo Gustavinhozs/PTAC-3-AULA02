@@ -1,14 +1,14 @@
 import Link from "next/link";
 import styles from "./menu.module.css"
-import Image from "next/image";
+import Imagem from "next/image";
 
 export default function Menu(){
     return(
         <header className={styles.cabecalho}>
-          <image
+          <Imagem
           width={100}
-          height={100}
-        src= {"https://e1.pxfuel.com/desktop-wallpaper/615/540/desktop-wallpaper-the-joker-joker-cartoon.jpg"} />  
+          height={70}
+        src= {"https://www.ifms.edu.br/marcaifms.png"}/> 
          <h1>Menu</h1>
           <nav>
             <ul>
