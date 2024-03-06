@@ -20,6 +20,10 @@ export default function Menu(){
                 <li>Registrar</li>
                </Link>
 
+               <Link href="/localizacao">
+                <li>Mapa  </li>
+               </Link>
+
             </ul>
           </nav>
          </header>
